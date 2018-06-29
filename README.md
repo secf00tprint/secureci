@@ -1,3 +1,7 @@
 # Secure Continous Integration
 
-Java Branch
+For different languages:
+
+Branches:
+
+- "java"
